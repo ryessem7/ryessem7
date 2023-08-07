@@ -41,14 +41,12 @@
 ##
 ### Some of My Featured Projects❓ 👨‍💻 🛰️
 
-- [Caliber Supplies Business Sales EDA](https://github.com/)
+- [Caliber Supplies Business Sales EDA](https://github.com/ryessem7/SalesEDA)
 
-- [Caliber Supplies Excel Dashboard](https://github.com)
+- [Caliber Supplies Excel Dashboard](https://github.com/ryessem7/SalesDASH)
 
 - [Netflix Interactive Dashboard](https://public.tableau.com/app/profile/ryan.essem/viz/NetflixDashBoard_16895668160690/NetlfixDashboard)
 
-- [Hispanic Restaurants DB & Website](https://github.com)
+- [Hispanic Restaurants DB & Website](https://github.com/ryessem7/Group6-Final-INST377SP2022)
 
-- [Avocado Prices Multiple Linear Regression](https://github.com)
-
-## View more repositories 👇
+- [Avocado Prices Multiple Linear Regression](https://github.com/ryessem7/AvocadoMLR)
