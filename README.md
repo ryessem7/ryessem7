@@ -17,7 +17,6 @@
 - 🔢 Excel & Excel VBA
 - 📈 Tableau 
 - 🎯 R programming
-- 📊 C & C++
 - 📝 MySQL, PostgreSQL, MS SQL Server
   and more!
 
