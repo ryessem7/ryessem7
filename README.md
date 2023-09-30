@@ -14,10 +14,10 @@
 ### 🧮 Skill Set:
 - 🐍 Python
 - ⌨️ SQL
-- 🔢 Excel & Excel VBA
+- 🔢 Excel
 - 📈 Tableau 
 - 🎯 R programming
-- 📝 MySQL, PostgreSQL, MS SQL Server
+- 📝 MySQL, PostgreSQL
   and more!
 
 ##
